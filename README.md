@@ -22,7 +22,9 @@ The project includes:
 [▶️ Watch SwiftCart App Demo](./swiftcart-demo.mp4)
 
 
- 
+ <img width="4945" height="1750" alt="Image" src="https://github.com/user-attachments/assets/c5c3aa9b-384d-401b-a4db-a2736b5a328b" />
+ <img width="3365" height="1770" alt="Image" src="https://github.com/user-attachments/assets/be89b88b-156e-4c55-93dd-49f8b249144b" />
+ <img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/b642e259-e3f4-485c-8c5c-6fc2fa82b80d" />
 
  
  
