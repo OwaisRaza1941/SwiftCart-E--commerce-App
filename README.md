@@ -19,18 +19,13 @@ The project includes:
 ## 🎥 Demo
 
 ### 📱 Customer App
+SwiftCart App Demo.mp4
 
-[▶️ Watch Customer App Demo](YOUR_VIDEO_LINK_HERE)
 
-### 🖥️ Admin Panel
+ 
 
-[▶️ Watch Admin Panel Demo](YOUR_VIDEO_LINK_HERE)
-
-### 🛵 Rider App
-
-[▶️ Watch Rider App Demo](YOUR_VIDEO_LINK_HERE)
-
----
+ 
+ 
 
 # ✨ Features
 
