@@ -19,7 +19,7 @@ The project includes:
 ## 🎥 Demo
 
 ### 📱 Customer App
-SwiftCart App Demo.mp4
+[▶️ Watch SwiftCart App Demo](./swiftcart-demo.mp4)
 
 
  
