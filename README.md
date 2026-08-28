@@ -17,7 +17,9 @@ The project includes:
 ---
 
 ## 🎥 Demo
+## 🎥 Project Demo
 
+https://github.com/OwaisRaza1941/SwiftCart-E--commerce-App/raw/main/demo.mp4
 ### 📱 Customer App
 
 <video src="https://github.com/OwaisRaza1941/SwiftCart-E--commerce-App/raw/master/swiftcart-demo.mp4" controls muted width="400"></video>
