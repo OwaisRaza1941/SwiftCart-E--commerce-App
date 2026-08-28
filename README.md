@@ -19,16 +19,6 @@ The project includes:
 ## 🎥 Demo
 ## 🎥 Project Demo
 
-
-
-https://github.com/user-attachments/assets/8d52ceb8-cbdf-45e3-aceb-f64a36297b24
-
-
-
-
-
-
-
  📱 Customer App
  <img width="4945" height="1750" alt="Image" src="https://github.com/user-attachments/assets/c5c3aa9b-384d-401b-a4db-a2736b5a328b" />
  <img width="3365" height="1770" alt="Image" src="https://github.com/user-attachments/assets/be89b88b-156e-4c55-93dd-49f8b249144b" />
